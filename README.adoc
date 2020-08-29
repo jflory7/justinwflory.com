@@ -1,0 +1,7 @@
+= https://gitlab.com/jwflory/jwflory.gitlab.io[gitlab.com/jwflory/jwflory.gitlab.io]
+
+----
+This project was moved to GitLab.
+Find this repo over there!
+https://gitlab.com/jwflory/jwflory.gitlab.io
+----
